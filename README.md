@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bojun Zhang
 
-I am a 🎓 PhD candidate in the Department of Mechanical Engineering, Xi'an Jiaotong University.
+I am a 🎓PhD candidate in the Department of Mechanical Engineering, Xi'an Jiaotong University.
 
 I am morbidly obsessed with 📐design and 💻programming, but not limited to any particular language or environment. All the interesting things are in my recipe.
 
