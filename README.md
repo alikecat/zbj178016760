@@ -2,7 +2,7 @@
 
 I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University.
 
-I am morbidly obsessed with 📐 **_design_** and 💻 **_programming_**, but not limited to any particular language or environment. All the interesting things are in my recipe.
+I am morbidly obsessed with 📐 **_designing_** and 💻 **_programming_**, but not limited to any particular language or environment. All the interesting things are in my recipe.
 
 I like writing 📰 **_websites_** and 📱 **_mobile apps_**, and I'm currently learning how to 🎨 generate and process pictures with pytouch, which may become another hobby.
 
