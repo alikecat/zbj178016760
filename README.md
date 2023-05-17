@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bojun Zhang
+# Hi there 👋 I'm Likecat
 
 I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University.
 
